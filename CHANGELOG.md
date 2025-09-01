@@ -1,1 +1,2 @@
 - 2025-09-01: Refactor model loading logic
+- 2025-09-01: Improve error handling
