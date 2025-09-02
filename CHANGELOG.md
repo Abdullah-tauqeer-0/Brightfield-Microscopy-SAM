@@ -1,2 +1,3 @@
 - 2025-09-01: Refactor model loading logic
 - 2025-09-01: Improve error handling
+- 2025-09-02: Add validation step to trainer
