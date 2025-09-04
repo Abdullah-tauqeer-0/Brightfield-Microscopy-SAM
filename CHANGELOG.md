@@ -4,3 +4,4 @@
 - 2025-09-02: Fix bug in IoU calculation
 - 2025-09-04: Add support for 16-bit images
 - 2025-09-04: Add CI/CD configuration
+- 2025-09-04: Refactor loss function
