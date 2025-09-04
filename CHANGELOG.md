@@ -3,3 +3,4 @@
 - 2025-09-02: Add validation step to trainer
 - 2025-09-02: Fix bug in IoU calculation
 - 2025-09-04: Add support for 16-bit images
+- 2025-09-04: Add CI/CD configuration
