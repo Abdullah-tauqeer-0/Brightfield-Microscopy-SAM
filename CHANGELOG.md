@@ -5,3 +5,4 @@
 - 2025-09-04: Add support for 16-bit images
 - 2025-09-04: Add CI/CD configuration
 - 2025-09-04: Refactor loss function
+- 2025-09-05: Fix bug in tiling overlap
