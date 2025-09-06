@@ -8,3 +8,4 @@
 - 2025-09-05: Fix bug in tiling overlap
 - 2025-09-05: Clean up imports
 - 2025-09-06: Fix typo in documentation
+- 2025-09-06: Optimize data loader
