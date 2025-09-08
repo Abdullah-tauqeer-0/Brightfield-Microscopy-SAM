@@ -10,3 +10,4 @@
 - 2025-09-06: Fix typo in documentation
 - 2025-09-06: Optimize data loader
 - 2025-09-08: Add support for multi-gpu training
+- 2025-09-08: Add progress bar to inference
