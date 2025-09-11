@@ -11,3 +11,4 @@
 - 2025-09-06: Optimize data loader
 - 2025-09-08: Add support for multi-gpu training
 - 2025-09-08: Add progress bar to inference
+- 2025-09-11: Optimize data loader
