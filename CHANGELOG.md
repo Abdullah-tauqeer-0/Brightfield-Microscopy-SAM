@@ -13,3 +13,4 @@
 - 2025-09-08: Add progress bar to inference
 - 2025-09-11: Optimize data loader
 - 2025-09-12: Update docstrings
+- 2025-09-12: Add CI/CD configuration
