@@ -14,3 +14,4 @@
 - 2025-09-11: Optimize data loader
 - 2025-09-12: Update docstrings
 - 2025-09-12: Add CI/CD configuration
+- 2025-09-14: Add CI/CD configuration
