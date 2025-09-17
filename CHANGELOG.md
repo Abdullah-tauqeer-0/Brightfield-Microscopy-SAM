@@ -15,3 +15,4 @@
 - 2025-09-12: Update docstrings
 - 2025-09-12: Add CI/CD configuration
 - 2025-09-14: Add CI/CD configuration
+- 2025-09-17: Add unit tests for metrics
