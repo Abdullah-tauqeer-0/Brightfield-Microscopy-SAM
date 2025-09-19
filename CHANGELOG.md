@@ -16,3 +16,4 @@
 - 2025-09-12: Add CI/CD configuration
 - 2025-09-14: Add CI/CD configuration
 - 2025-09-17: Add unit tests for metrics
+- 2025-09-19: Add support for TIFF files
