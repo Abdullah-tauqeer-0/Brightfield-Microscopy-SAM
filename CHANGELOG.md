@@ -18,3 +18,4 @@
 - 2025-09-17: Add unit tests for metrics
 - 2025-09-19: Add support for TIFF files
 - 2025-09-19: Add progress bar to inference
+- 2025-09-21: Add progress bar to inference
