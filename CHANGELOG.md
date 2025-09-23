@@ -21,3 +21,4 @@
 - 2025-09-21: Add progress bar to inference
 - 2025-09-23: Refactor model loading logic
 - 2025-09-23: Fix crash on empty mask
+- 2025-09-23: Add support for custom checkpoints
