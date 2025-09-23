@@ -19,3 +19,4 @@
 - 2025-09-19: Add support for TIFF files
 - 2025-09-19: Add progress bar to inference
 - 2025-09-21: Add progress bar to inference
+- 2025-09-23: Refactor model loading logic
