@@ -23,3 +23,4 @@
 - 2025-09-23: Fix crash on empty mask
 - 2025-09-23: Add support for custom checkpoints
 - 2025-09-25: Refactor directory structure
+- 2025-09-27: Add CI/CD configuration
