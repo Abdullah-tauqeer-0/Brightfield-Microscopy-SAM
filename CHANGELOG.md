@@ -26,3 +26,4 @@
 - 2025-09-27: Add CI/CD configuration
 - 2025-09-28: Fix bug in tiling overlap
 - 2025-09-28: Optimize data loader
+- 2025-09-28: Improve brightfield normalization
