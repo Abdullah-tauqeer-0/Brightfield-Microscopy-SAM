@@ -24,3 +24,4 @@
 - 2025-09-23: Add support for custom checkpoints
 - 2025-09-25: Refactor directory structure
 - 2025-09-27: Add CI/CD configuration
+- 2025-09-28: Fix bug in tiling overlap
