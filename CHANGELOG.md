@@ -28,3 +28,4 @@
 - 2025-09-28: Optimize data loader
 - 2025-09-28: Improve brightfield normalization
 - 2025-10-01: Optimize CLAHE parameters
+- 2025-10-01: Optimize CLAHE parameters
