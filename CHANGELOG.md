@@ -29,3 +29,4 @@
 - 2025-09-28: Improve brightfield normalization
 - 2025-10-01: Optimize CLAHE parameters
 - 2025-10-01: Optimize CLAHE parameters
+- 2025-10-01: Update version number
