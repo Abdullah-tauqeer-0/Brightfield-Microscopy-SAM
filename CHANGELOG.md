@@ -27,3 +27,4 @@
 - 2025-09-28: Fix bug in tiling overlap
 - 2025-09-28: Optimize data loader
 - 2025-09-28: Improve brightfield normalization
+- 2025-10-01: Optimize CLAHE parameters
