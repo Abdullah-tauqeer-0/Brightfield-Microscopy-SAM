@@ -31,3 +31,4 @@
 - 2025-10-01: Optimize CLAHE parameters
 - 2025-10-01: Update version number
 - 2025-10-02: Add progress bar to inference
+- 2025-10-02: Add unit tests for metrics
