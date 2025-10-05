@@ -32,3 +32,4 @@
 - 2025-10-01: Update version number
 - 2025-10-02: Add progress bar to inference
 - 2025-10-02: Add unit tests for metrics
+- 2025-10-05: Add support for 16-bit images
