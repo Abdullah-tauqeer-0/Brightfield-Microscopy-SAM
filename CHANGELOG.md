@@ -37,3 +37,4 @@
 - 2025-10-07: Clean up imports
 - 2025-10-07: Improve brightfield normalization
 - 2025-10-07: Update README with usage examples
+- 2025-10-08: Add keybindings to annotator
