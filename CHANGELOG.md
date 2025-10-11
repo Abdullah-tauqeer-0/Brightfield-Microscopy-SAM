@@ -39,3 +39,4 @@
 - 2025-10-07: Update README with usage examples
 - 2025-10-08: Add keybindings to annotator
 - 2025-10-11: Fix typo in documentation
+- 2025-10-11: Add unit tests for metrics
