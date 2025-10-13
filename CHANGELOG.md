@@ -40,3 +40,4 @@
 - 2025-10-08: Add keybindings to annotator
 - 2025-10-11: Fix typo in documentation
 - 2025-10-11: Add unit tests for metrics
+- 2025-10-13: Fix memory leak in predictor
