@@ -41,3 +41,4 @@
 - 2025-10-11: Fix typo in documentation
 - 2025-10-11: Add unit tests for metrics
 - 2025-10-13: Fix memory leak in predictor
+- 2025-10-13: Update dependencies in setup.py
