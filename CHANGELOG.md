@@ -44,3 +44,4 @@
 - 2025-10-13: Update dependencies in setup.py
 - 2025-10-15: Fix crash on empty mask
 - 2025-10-15: Add keybindings to annotator
+- 2025-10-15: Add support for batch processing
