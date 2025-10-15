@@ -42,3 +42,4 @@
 - 2025-10-11: Add unit tests for metrics
 - 2025-10-13: Fix memory leak in predictor
 - 2025-10-13: Update dependencies in setup.py
+- 2025-10-15: Fix crash on empty mask
