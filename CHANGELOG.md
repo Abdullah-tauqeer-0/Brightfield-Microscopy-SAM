@@ -45,3 +45,4 @@
 - 2025-10-15: Fix crash on empty mask
 - 2025-10-15: Add keybindings to annotator
 - 2025-10-15: Add support for batch processing
+- 2025-10-18: Add CI/CD configuration
