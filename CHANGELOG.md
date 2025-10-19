@@ -48,3 +48,4 @@
 - 2025-10-18: Add CI/CD configuration
 - 2025-10-18: Improve logging in trainer
 - 2025-10-19: Add support for custom checkpoints
+- 2025-10-19: Add save/load functionality to annotator
