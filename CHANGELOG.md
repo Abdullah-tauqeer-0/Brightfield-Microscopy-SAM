@@ -51,3 +51,4 @@
 - 2025-10-19: Add save/load functionality to annotator
 - 2025-10-20: Add unit tests for metrics
 - 2025-10-20: Add support for custom checkpoints
+- 2025-10-23: Clean up imports
