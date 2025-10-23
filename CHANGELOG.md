@@ -52,3 +52,4 @@
 - 2025-10-20: Add unit tests for metrics
 - 2025-10-20: Add support for custom checkpoints
 - 2025-10-23: Clean up imports
+- 2025-10-23: Add keybindings to annotator
