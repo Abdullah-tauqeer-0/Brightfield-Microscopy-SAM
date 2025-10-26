@@ -54,3 +54,4 @@
 - 2025-10-23: Clean up imports
 - 2025-10-23: Add keybindings to annotator
 - 2025-10-26: Optimize data loader
+- 2025-10-26: Add validation step to trainer
