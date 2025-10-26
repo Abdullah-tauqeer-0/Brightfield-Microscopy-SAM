@@ -55,3 +55,4 @@
 - 2025-10-23: Add keybindings to annotator
 - 2025-10-26: Optimize data loader
 - 2025-10-26: Add validation step to trainer
+- 2025-10-26: Update README with usage examples
