@@ -58,3 +58,4 @@
 - 2025-10-26: Update README with usage examples
 - 2025-10-27: Fix bug in IoU calculation
 - 2025-10-27: Fix memory leak in predictor
+- 2025-10-30: Refactor model loading logic
