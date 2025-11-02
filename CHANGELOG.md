@@ -59,3 +59,4 @@
 - 2025-10-27: Fix bug in IoU calculation
 - 2025-10-27: Fix memory leak in predictor
 - 2025-10-30: Refactor model loading logic
+- 2025-11-02: Add support for custom checkpoints
